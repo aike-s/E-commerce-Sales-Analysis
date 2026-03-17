@@ -76,5 +76,5 @@ ecommerce_analysis.ipynb
 
 ## Author
 
-Data analysis project created as part of a personal portfolio.
+Salomé Grisales data analysis project created as part of a personal portfolio.
 
